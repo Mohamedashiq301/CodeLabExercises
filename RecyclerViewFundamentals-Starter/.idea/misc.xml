@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ashiq/CodeLab Apps1/RecyclerViewFundamentals-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1" />
+        <entry key="..\:/Users/Ashiq/CodeLab Apps1/RecyclerViewFundamentals-Starter/app/src/main/res/layout/list_item_sleep_night.xml" value="0.1" />
         <entry key="..\:/Users/Ashiq/repo/android-kotlin-fundamentals-starter-apps-master/RecyclerViewFundamentals-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/Ashiq/repo/android-kotlin-fundamentals-starter-apps-master/RecyclerViewFundamentals-Starter/app/src/main/res/layout/list_item_sleep_night.xml" value="0.22" />
         <entry key="..\:/Users/Ashiq/repo/android-kotlin-fundamentals-starter-apps-master/RecyclerViewFundamentals-Starter/app/src/main/res/layout/text_item_view.xml" value="0.1" />
